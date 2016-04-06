@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "module": "commonjs",
+    "sourceMap": false,
+    "target": "es6",
+    "outDir": "js/"
+  },
+  "files": [
+    "ts/index.ts"
+  ],
+  "compileOnSave": false
+}
